@@ -1,0 +1,22 @@
+disculpen me tengo que mover a otra sesion
+Coloca el cursor sobre un mensaje para fijarlo
+keep
+me quedo con el compromiso de revisar como entregarles informacion
+1)  por  consulta de base de datos
+2)  o habilitando los reportes
+se trabajaran en los dos caminos
+
+
+Buen dia 
+Me pueden apoyar con los siguientes puntos
+
+Habilitar la comunicacion de boi.hey.inc con la base de datos boi produccion hey (10.4.90.46)
+Creacion del DNS  (Para Tableau HEY Certificacion) boi-certificacion.hey.inc 
+Habilitar la comunicacion de  boi-certificacion.hey.inc     con la base de datos de IQ Certificacion (10.4.89.48)
+
+
+Observaciones de auditoria
+
+Revisar  en donde se norma el manual * integridad o tecnologia
+
+nos va buscar para en base a eso documentar el manual  y sus pasos.....
